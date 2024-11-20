@@ -36,6 +36,8 @@ Testing dilakukan pada Web https://juice-shop.herokuapp.com
 Testing dilaksanakan dengan Website Browser Google Chrome
 
 C. Project-Katalon-Mobile-Testing
+Panduan Penggunaan Aplikasi
+
 Requirement yang harus disipkan sebelum running aplikasi ini adalah : Menggunakan Bahasa Groovy based Katalon Studio versi 9.7.3 
 Testing dilakukan pada Aplikasi https://bit.ly/todo20APK
 Testing dilaksanakan dengan Mobile Android
