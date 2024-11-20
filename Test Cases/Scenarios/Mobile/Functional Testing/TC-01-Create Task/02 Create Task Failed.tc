@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 Create Task Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74b57aa6-7a08-42b4-84b3-177d7af6437e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a392deac-64a1-47cd-b1f7-9de828b9a7f8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fffe472e-b8a7-4635-b7cc-fbeed2fdebe0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daeaa00d-3ecf-4d71-83e7-83b2167a7358</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a392deac-64a1-47cd-b1f7-9de828b9a7f8</id>
+      <masked>false</masked>
+      <name>TaskTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Katalon Mobile'</defaultValue>
+      <description></description>
+      <id>fffe472e-b8a7-4635-b7cc-fbeed2fdebe0</id>
+      <masked>false</masked>
+      <name>EnterYourTask</name>
+   </variable>
+   <variable>
+      <defaultValue>'Insurance'</defaultValue>
+      <description></description>
+      <id>daeaa00d-3ecf-4d71-83e7-83b2167a7358</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+</TestCaseEntity>

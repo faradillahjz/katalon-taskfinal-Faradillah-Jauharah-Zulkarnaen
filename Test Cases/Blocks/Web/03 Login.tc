@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03 Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>247b4298-9679-4f23-ac48-d341ecbb7c28</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa248c4d-ac75-49ec-9a2c-fe188a7f9043</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>666cc9cb-c393-4f1d-bbba-2c36ae7a27ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3025955-97cc-42be-83ae-4f16ecdd4384</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'faradillahjauharah10@gmail.com'</defaultValue>
+      <description></description>
+      <id>aa248c4d-ac75-49ec-9a2c-fe188a7f9043</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'ga30+pNAxE3YJO6i3dFepw=='</defaultValue>
+      <description></description>
+      <id>666cc9cb-c393-4f1d-bbba-2c36ae7a27ab</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>b3025955-97cc-42be-83ae-4f16ecdd4384</id>
+      <masked>false</masked>
+      <name>check</name>
+   </variable>
+</TestCaseEntity>

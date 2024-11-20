@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01 Create Task Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d65900f-941c-4304-ba67-185fc7d756c4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5db9549c-f4c1-4b90-8658-004b94e23981</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d91eb47-8165-467d-a822-fa339abc11bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfcc6e28-0470-4aab-87b1-ca7467863080</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Final Project'</defaultValue>
+      <description></description>
+      <id>5db9549c-f4c1-4b90-8658-004b94e23981</id>
+      <masked>false</masked>
+      <name>TaskTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Katalon Mobile'</defaultValue>
+      <description></description>
+      <id>0d91eb47-8165-467d-a822-fa339abc11bf</id>
+      <masked>false</masked>
+      <name>EnterYourTask</name>
+   </variable>
+   <variable>
+      <defaultValue>'Insurance'</defaultValue>
+      <description></description>
+      <id>dfcc6e28-0470-4aab-87b1-ca7467863080</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+</TestCaseEntity>

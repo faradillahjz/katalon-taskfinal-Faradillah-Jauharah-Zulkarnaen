@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS-01-Create Task Testing</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>faradillahj146@gmail.com;</mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>3b3031bb-e02d-4ed3-9d6e-8940b724c914</testSuiteGuid>
+   <testCaseLink>
+      <guid>83cee25d-4cd3-4707-a161-6c31fd420fea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Scenarios/Mobile/Functional Testing/TC-01-Create Task/01 Create Task Success</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>245f49db-06e3-451b-a8dc-d018b1dd35eb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/katalonData/05 createtaskValid</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>245f49db-06e3-451b-a8dc-d018b1dd35eb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TaskTitle</value>
+         <variableId>5db9549c-f4c1-4b90-8658-004b94e23981</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>245f49db-06e3-451b-a8dc-d018b1dd35eb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EnterYourTask</value>
+         <variableId>0d91eb47-8165-467d-a822-fa339abc11bf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>245f49db-06e3-451b-a8dc-d018b1dd35eb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>category</value>
+         <variableId>dfcc6e28-0470-4aab-87b1-ca7467863080</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a491d897-3fa6-4c7c-bebc-623d23e6071b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Scenarios/Mobile/Functional Testing/TC-01-Create Task/02 Create Task Failed</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>322d7531-0563-4765-99e4-1252e29b5145</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/katalonData/06 createtaskInvalid</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>322d7531-0563-4765-99e4-1252e29b5145</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TaskTitle</value>
+         <variableId>a392deac-64a1-47cd-b1f7-9de828b9a7f8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>322d7531-0563-4765-99e4-1252e29b5145</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EnterYourTask</value>
+         <variableId>fffe472e-b8a7-4635-b7cc-fbeed2fdebe0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>322d7531-0563-4765-99e4-1252e29b5145</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>category</value>
+         <variableId>daeaa00d-3ecf-4d71-83e7-83b2167a7358</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
